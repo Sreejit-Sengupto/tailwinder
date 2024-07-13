@@ -2,7 +2,7 @@
 
 Add Tailwind to your Project with a single command!
 Free yourself from the hassle of copy pasting lines of codes and commands to initialise tailwind in your project all your need is:
-**`npx tailwindinit <frameword> <project-path>`**
+**`npx tailwindinator <frameword> <project-path>`**
 
 
 ## Framework Support
