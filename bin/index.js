@@ -14,7 +14,7 @@ program
   .description("Add Tailwind to Frontend Frameworks with a single command");
 
 program
-  .command("vite <path>")
+  .command("react-vite <path>")
   .description("Add Tailwind to Vite project")
   .action(async (path) => {
     console.log(chalk.blueBright("Adding tailwind to vite project...."));
