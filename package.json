@@ -1,7 +1,7 @@
 {
   "name": "tailwindinator",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Install tailwind to any project with a single command",
   "main": "./bin/index.js",
   "keywords": [
@@ -20,6 +20,6 @@
     "log-update": "^6.0.0"
   },
   "bin": {
-    "tailwindinit": "./bin/index.js"
+    "tailwindinator": "./bin/index.js"
   }
 }
